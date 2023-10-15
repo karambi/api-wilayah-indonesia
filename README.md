@@ -38,7 +38,7 @@ API statis adalah API yang _endpoint_-nya terdiri dari file statis.
 * Klik menu "Pages" untuk masuk ke menu pengaturan GitHub Pages.
 * Pada menu pengaturan GitHub Pages:
   * Pilih Source: Deploy from a Branch
-  * Branch: `gh-pages`
+  * Branch: `page`
   * Direktori: `/root`
   * Klik Save
 * Tunggu beberapa menit (5-10 menitan), kembali ke halaman home repository (https://github.com/usernamekamu/api-wilayah-indonesia).
